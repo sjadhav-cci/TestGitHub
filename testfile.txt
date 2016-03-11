@@ -1,5 +1,1 @@
 This is new file
-checking commit --amend
-pending changes
-creating conflicts
-conflicts again
