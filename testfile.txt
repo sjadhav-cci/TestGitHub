@@ -2,3 +2,4 @@ This is new file
 checking commit --amend
 pending changes
 creating conflicts
+made by sumit
